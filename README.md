@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **amjad-hussen/amjad-hussen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=amjad-hussen&theme=dark&fire=pink)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=amjad-hussen&theme=dark)](https://github.com/amjad-hussen)
