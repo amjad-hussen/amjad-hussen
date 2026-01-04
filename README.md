@@ -1,4 +1,8 @@
+![Banner](./banner.jpg)
+
+
 I am an entry-level MERN Stack Web Developer with hands-on experience in building responsive web applications using MongoDB, Express.js, React, and Node.js. I enjoy creating clean, efficient, and user-friendly web solutions while continuously improving my skills.
+
 
 - 🔭 I’m currently working on building full-stack web applications using the MERN stack.
 - 🌱 I’m currently learning advanced React, backend optimization, and secure web development practices.
